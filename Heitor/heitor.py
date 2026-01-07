@@ -1,0 +1,1 @@
+print('Porque Deus amou o mundo...')
